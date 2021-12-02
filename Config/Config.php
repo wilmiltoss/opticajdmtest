@@ -8,18 +8,18 @@
 	date_default_timezone_set('America/Asuncion');
 
 	//Datos de conexión a Base de Datos local
-	const DB_HOST = "localhost";
+	/*const DB_HOST = "localhost";
 	const DB_NAME = "db_tiendavirtual";
 	const DB_USER = "root";
 	const DB_PASSWORD = "";
-	const DB_CHARSET = "utf8";
+	const DB_CHARSET = "utf8";*/
 
 	//Datos de conexión a Base de Datos externa
-	/*const DB_HOST = "162.144.72.179";
-	const DB_NAME = "wmiltos_db_tiendavirtual";
-	const DB_USER = "wmiltos_userdevelop";
-	const DB_PASSWORD = "wMiltos2021*";
-	const DB_CHARSET = "utf8";*/
+	const DB_HOST = "ik1eybdutgxsm0lo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+	const DB_NAME = "vefhalo3ydeye1do";
+	const DB_USER = "utrz1pyo2mzfh9pl";
+	const DB_PASSWORD = "bb1rle000xeznxve";
+	const DB_CHARSET = "utf8";
 
 	//Para envío de correo
 	const ENVIRONMENT = 0; // Local: 0, Produccón: 1;
