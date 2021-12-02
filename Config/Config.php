@@ -1,7 +1,7 @@
 <?php 
 	//direccion raiz del proyecto
-	 const BASE_URL = "http://localhost:8081/opticajdm";
-	//const BASE_URL = "http://162.144.72.179/~wmiltos/tienda_virtual";
+	// const BASE_URL = "http://localhost:8081/opticajdm";
+	const BASE_URL = "https://opticajdmtest.herokuapp.com";
 	//const BASE_URL = "https://abelosh.com/tiendavirtual";
 
 	//Zona horaria
