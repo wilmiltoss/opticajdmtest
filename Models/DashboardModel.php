@@ -76,7 +76,7 @@
 
 			$totalVentasMes = 0;
 			$arrVentaDias = array();
-			$dias = cal_days_in_month(CAL_GREGORIAN,$mes, $anio);
+			$dias = 31;
 			//echo $dias ; exit();
 
 			$n_dia = 1;
